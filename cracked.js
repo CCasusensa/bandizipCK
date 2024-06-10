@@ -23,4 +23,4 @@ writeFileSync(modifiedExePath, exeData);
 const backupExePath = originalExePath.replace('.exe', '_old.BAK');
 copyFileSync(originalExePath, backupExePath);
 
-console.log('破解完成');
+console.log('修改完成');
