@@ -1,6 +1,7 @@
 {
-  "type":"module",
+  "type": "module",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "win-version-info": "^6.0.1"
   }
 }
